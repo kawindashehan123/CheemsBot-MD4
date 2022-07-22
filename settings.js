@@ -54,17 +54,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.vcardowner = ['94741388320'] //ur owner number
+global.ownername = "🦄꧁ᵂᴴᴬᵀˢᴬᴾᴾ ⃗𝙱𝙾𝚃  ₖₐWᵢₙDₐ ࿐" //ur owner name
+global.ytname = "YT: no " //ur yt chanel name
+global.socialm = "GitHub: KAWINDA " //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
+global.owner = ['94741388320']
+global.ownertag = '94741388320' //ur tag number
+global.botname = 'jawinda Bot MD V4' //ur bot name
+global.linkz = "https://chat.whatsapp.com/BnCcUmILqb8J983LAKqHUD" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
